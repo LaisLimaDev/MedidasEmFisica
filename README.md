@@ -1,8 +1,4 @@
-# MedidasEmFisica
-Registrar materiais relativos a disciplina de medidas em física cursada durante a Licenciatura em Física no IFUSP 
-
-
-Registrar materiais relativos a disicplina de medidas em física, sempre que possível aproveitando para treinar com implementações em python e outras tecnologias. 
+Registrar materiais relativos a disicplina de medidas em física, cursada durante a Licenciatura em Física no IFUSP ,  sempre que possível aproveitando para treinar com implementações em python e outras tecnologias. 
 
 
 Principais fontes utilizadas: 
