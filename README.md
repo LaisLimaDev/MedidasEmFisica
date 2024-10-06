@@ -21,3 +21,12 @@ https://www.youtube.com/watch?v=wU9KOeszP4A&list=PLbJw5lCkhjOlFSqwaRjs3YYKrX0caF
 
 Projeto Estatística para todos - Trilha de Python  ( canal prof Anibal Azevedo)
 https://www.youtube.com/watch?v=y7SuRa6ILZM&list=PLH9knZH6lcgoWDxJEOPaVN3uAlg4WRh8j
+
+Playlist Physics Python Tutorial's
+https://youtube.com/playlist?list=PLWFlMBumSLSaqgYlK2wD7XSPRQ2p-_Tl4&si=nq_QlX7IyoyU7BoL
+
+Playlist sobre aplicações de Python em ciência e engenharia , como incertezas
+https://youtube.com/playlist?list=PL0sMmOaE_gs2yzwy54kLZk5c1ZH-Nh-62&si=sHBKZZnHHsJBr6Mc
+
+Uncertainties and Errors - IB Physics
+https://youtube.com/playlist?list=PLeveVE-rwOyKq-jxa7IaHgPyHIxrQoLX_&si=K6hIDLZNm2JpPQjA
