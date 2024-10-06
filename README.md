@@ -10,6 +10,10 @@ Apostila Conceitos básicos da Teoria de Erros do prof Dr Manfredo Tabacniks
 
 Livro Fundamentos da Teoria de Erros - Vuolo
 
+ FIS004 - Propagação de incertezas usando o Python 
+
+ https://youtu.be/vZ0lMOnTohw?si=WoKqUtr71I1Rvpss
+
 Playlist estatística básica canal Téo me Why 
 https://www.youtube.com/watch?v=onOgEotiuMw&list=PLvlkVRRKOYFSWIyhwq4Nu8sNd_GfOi1tj
 
